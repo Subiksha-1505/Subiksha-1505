@@ -34,13 +34,3 @@ Passionate B.Tech Artificial Intelligence & Data Science student with a strong i
 <a href="mailto:subiksharajendran0@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="48" />
 </a>
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subiksha-1505&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subiksha-1505&layout=compact)
-
-## GitHub Activity Graph
-
-[![Subiksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subiksha-1505)](https://github.com/Subiksha-1505)
