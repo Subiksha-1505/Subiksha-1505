@@ -22,11 +22,6 @@ Passionate B.Tech Artificial Intelligence & Data Science student with a strong i
 
 ## Connect with me:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/subiksha-rajendran-602355319)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/subiksha-rajendran-602355319) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:subiksharajendran0@gmail.com) [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/subiksharajendr1)
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:subiksharajendran0@gmail.com)
-
-<a href="https://www.hackerrank.com/subiksharajendr1" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
 
