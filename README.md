@@ -8,20 +8,16 @@ Passionate B.Tech Artificial Intelligence & Data Science student with a strong i
 - Facial Recognition Attendance System
 - AI Fatigue Detection 
 
-## Skills
+## Skills and Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql,aws,docker,git,github" />
 </p>
 
-## Tools
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=firebase,vscode,linux" />
 </p>
 
-## Connect with me:
+## Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/subiksha-rajendran-602355319) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:subiksharajendran0@gmail.com) [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/subiksharajendr1)
-
-
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/subiksha-rajendran-602355319"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a> <a href="https://www.hackerrank.com/subiksharajendr1"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="48" /></a> [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:subiksharajendran0@gmail.com)
