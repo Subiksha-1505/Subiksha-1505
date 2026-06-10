@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Subiksha Rajendran👋
 
-<!--
-**Subiksha-1505/Subiksha-1505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Passionate B.Tech Artificial Intelligence & Data Science student with a strong interest in Artificial Intelligence, Cloud Computing, and DevOps. Skilled in Python, SQL, and Data Analytics, with hands-on experience in building real-world projects and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- SQL
+- Data Analytics
+- Cloud Computing
+- Git & GitHub
+- Firebase
+
+## Projects
+- Facial Recognition Attendance System
+- AI Fatigue Detection 
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/subiksha-rajendran-602355319
+- Email : subiksharajendran0@gmail.com
